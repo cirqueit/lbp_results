@@ -1,0 +1,40 @@
+haar alt2
+haar alt
+lbp def
+haar alt2
+lbp 40k 24
+haar alt
+lbpr2b 10k
+lbp 40k 24
+haar alt2
+haar alt
+lbpr2b 10k
+lbpr2 20k24 24
+lbprb2 20k 24
+lbpr2b 10k
+lbpr2 20k24 24
+lbp def
+lbpr2b 10k
+lbp def
+lbp def
+lbpr2b 10k
+lbpr2b 10k
+lbpr2b 10k
+lbpr2b 10k
+haar alt
+haar alt
+haar alt2
+lbpr2 20k24 24
+lbpr2 20k 24
+lbprb2 20k 24
+lbp def
+haar alt2
+lbprb2 20k 24
+haar alt2
+lbprb2 20k 24
+lbp 40k 24
+haar alt2
+lbpr2 40k 24
+lbpr2 20k 24
+haar alt
+haar def
